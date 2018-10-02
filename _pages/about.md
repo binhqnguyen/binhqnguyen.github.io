@@ -58,7 +58,7 @@ Publications:
 *[Paper](http://www.cs.utah.edu/~binh/archive/m2m-paper.pdf)*
 
 **Towards Understanding TCP Performance on LTE/EPC Mobile Networks**.    
-***Binh Nguyen**, Arijit Banerjee, Vijay Gopalakrishnan, Sneha Kumar Kasera, Seungjoon Lee, Aman Shaikh, and Jacobus Van der Merwe. ACM SIGCOMM **All Things Cellular' 14**, Chicago *.    
+***Binh Nguyen**, Arijit Banerjee, Vijay Gopalakrishnan, Sneha Kumar Kasera, Seungjoon Lee, Aman Shaikh, and Jacobus Van der Merwe. ACM SIGCOMM **All Things Cellular' 14**, Chicago*.    
 *[Paper](http://dl.acm.org/authorize?N71338) [Slides](http://www.cs.utah.edu/~binh/archive/towards-slides.pdf)*
 
 **SMORE: Software-Defined Networking Mobile Offloading Architecture**.  
