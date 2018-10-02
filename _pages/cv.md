@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Binh Nguyen CV"
+title: "Binh Nguyen's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Shanghai Jiao Tong University, 2012 (GPA 3.7/4.0)
-* Ph.D in Computer Science, University of Utah, 2017 (GPA 3.9/4.0)
+* **Ph.D in Computer Science**, University of Utah, 2017 (GPA 3.9/4.0)
+* **B.S. in Computer Science**, Shanghai Jiao Tong University, 2012 (GPA 3.7/4.0)
 
 Work experience
 ======
@@ -57,7 +57,7 @@ Publications:
 *[Paper](http://www.cs.utah.edu/~binh/archive/m2m-paper.pdf)*
 
 **Towards Understanding TCP Performance on LTE/EPC Mobile Networks**.    
-***Binh Nguyen**, Arijit Banerjee, Vijay Gopalakrishnan, Sneha Kumar Kasera, Seungjoon Lee, Aman Shaikh, and Jacobus Van der Merwe. ACM SIGCOMM **All Things Cellular' 14**, Chicago *.    
+***Binh Nguyen**, Arijit Banerjee, Vijay Gopalakrishnan, Sneha Kumar Kasera, Seungjoon Lee, Aman Shaikh, and Jacobus Van der Merwe. ACM SIGCOMM **All Things Cellular' 14**, Chicago*.    
 *[Paper](http://dl.acm.org/authorize?N71338) [Slides](http://www.cs.utah.edu/~binh/archive/towards-slides.pdf)*
 
 **SMORE: Software-Defined Networking Mobile Offloading Architecture**.  
