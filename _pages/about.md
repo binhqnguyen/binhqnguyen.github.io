@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I successfully defended my PhD in December 2017. My PhD dissertation was ["Enhancing scalability and reliablility in mobile core networks"](https://www.flux.utah.edu/paper/271). 
 I am currently at Charter Communications' Advanced Engineering in Denver CO working on network orchestration. 
 
