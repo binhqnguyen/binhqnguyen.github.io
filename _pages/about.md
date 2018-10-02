@@ -75,7 +75,7 @@ Patents:
 *Nakjung Choi, **Binh Nguyen**, Marina Thottan*.    
 *US, 15068953, 9/14/2017.*
 
-Other projects:
+Source code & tutorials:
 ===========
 * [Traffic Engineer with Segment Routing and Software Defined Networking - Demo - 2017](http://www.cs.utah.edu/~binh/archive/segment_routing/segment-routing-tutorial.html)
 * [SIMECA: SDN-based IoT Mobile Edge Cloud Architecture - Demo - 2016](https://wiki.phantomnet.org/wiki/phantomnet/simeca-sdn-based-iot-mobile-edge-cloud-architecture/)
