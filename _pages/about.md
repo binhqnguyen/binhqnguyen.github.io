@@ -32,7 +32,7 @@ Work experience:
 * **Microsoft Research** - Research Intern - Cambridge, UK - Summer 2016
 * **Nokia Bell Labs** - Research Intern - Murray Hill, NJ - Summer 2015
 * **AT&T Labs Research** - Research Intern - Bedminster, NJ - Summer 2014
-* **Flux Research Group** - Research Assistant - Univeristy of Utah - Spring 2012-now
+* **Flux Research Group** - Research Assistant - Univeristy of Utah - 2012-2017
 * **School of Computing** - Teaching Assistant - Univeristy of Utah - Fall 2012
 
 Publications:
