@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Binh Nguyen"
 title_separator          : "-"
 name                     : &name "Binh Nguyen"
 description              : &description "Software engineer"
