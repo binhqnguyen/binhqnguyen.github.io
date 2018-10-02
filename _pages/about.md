@@ -29,15 +29,10 @@ Work experience:
 ===========
 
 * **Charter Communications** - Principal Engineer - Denver - 2017/12 - Now
-
 * **Microsoft Research** - Research Intern - Cambridge, UK - Summer 2016
-
 * **Nokia Bell Labs** - Research Intern - Murray Hill, NJ - Summer 2015
-
 * **AT&T Labs Research** - Research Intern - Bedminster, NJ - Summer 2014
-
 * **Flux Research Group** - Research Assistant - Univeristy of Utah - Spring 2012-now
-
 * **School of Computing** - Teaching Assistant - Univeristy of Utah - Fall 2012
 
 Publications:
@@ -58,7 +53,7 @@ Publications:
 *[Paper](http://www.cs.utah.edu/~binh/archive/absence-paper.pdf) [1-min video](http://youtu.be/3Ha4axsnQZY) [Slides](http://www.cs.utah.edu/~binh/archive/absence-slides.pdf)*
 
 **PhantomNet: Research Infrastructure for Mobile Networking, Cloud Computing and Software-Defined Networking.**
-***Arijit Banerjee, Junguk Cho, Eric Eide, Jonathon Duerig, **Binh Nguyen**, Robert Ricci, Jacobus (Kobus) Van der Merwe, Kirk Webb, and Gary Wong.*
+*Arijit Banerjee, Junguk Cho, Eric Eide, Jonathon Duerig, **Binh Nguyen**, Robert Ricci, Jacobus (Kobus) Van der Merwe, Kirk Webb, and Gary Wong.*
 ***ACM GetMobile***. 
 *[Paper](http://www.cs.utah.edu/~binh/archive/phantomnet-paper.pdf)*
 
