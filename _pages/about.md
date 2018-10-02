@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Binh Nguyen"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -42,13 +42,11 @@ Work experience:
 
 Publications:
 ===========
-* ECHO: A reliable distributed cellular core network for hyper-scale public clouds
-
+**ECHO: A reliable distributed cellular core network for hyper-scale public clouds**
 ***Binh Nguyen**, Tian Zhang, Bozidar Radunovic, Ryan Stutsman, Thomas Karagiannis, Jakub Kocur, and Jacobus (Kobus) Van der Merwe.*
 ***MOBICOM 2018**. New Delhi. India [To appear]*
 
-* SIMECA: SDN-based IoT Mobile Edge Cloud Architecture
-
+*SIMECA: SDN-based IoT Mobile Edge Cloud Architecture
 ***Binh Nguyen**, Nakjung Choi, Marina Thottan, and Jacobus Van der Merwe.*
 *IFIP/IEEE International Symposium on Intergrated Network Management 2017 **(ISINM' 17)**. Portugal [Conference] [Paper] [PhantomNet profile] [SDN controller source code]*
 
