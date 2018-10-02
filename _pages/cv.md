@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * **Ph.D in Computer Science**, University of Utah, 2017 (GPA 3.9/4.0)
