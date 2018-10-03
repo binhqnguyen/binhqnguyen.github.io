@@ -22,8 +22,9 @@ Contact:
 
 Resume & CV:
 ======
+
+* [CV (8/2018)](https://binhqnguyen.github.io/cv/)
 * [Resume (8/2018)](http://www.cs.utah.edu/~binh/archive/resume.pdf)
-* [CV (12/2017)](https://binhqnguyen.github.io/cv/)
 
 Work experience:
 ===========
