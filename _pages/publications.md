@@ -34,4 +34,13 @@ author_profile: true
 *[Paper](http://dl.acm.org/authorize.cfm?key=N71324) [Slides](http://www.cs.utah.edu/~binh/archive/smore-slides.pdf)*
 
 
+Patents:
+======
+**[Telecommunications network with data centre deployment](http://www.freepatentsonline.com/y2018/0205574.html)**.     
+*Bozidar Radunovic, Christos Gkantsidis, Thomas Karagiannis, Parisa Jalili Marandi, **Binh Nguyen**, Matthew John Balkwill.*   
+*US, 15406348. 7/19/2018.*
+
+**[Programmable system architecture for routing data packets in virtual base stations](http://www.freepatentsonline.com/y2018/0205574.html)**.    
+*Nakjung Choi, **Binh Nguyen**, Marina Thottan*.    
+*US, 15068953, 9/14/2017.*
 
