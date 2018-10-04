@@ -24,7 +24,7 @@ Resume & CV:
 ======
 
 * [CV (8/2018)](https://binhqnguyen.github.io/cv/)
-* [Resume (8/2018)](http://www.cs.utah.edu/~binh/archive/resume.pdf)
+* [Resume (8/2018)](files/Binh_Resume.pdf)
 
 Work experience:
 ===========
