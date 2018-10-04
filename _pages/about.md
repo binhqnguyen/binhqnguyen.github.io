@@ -15,11 +15,6 @@ I am interested in **Mobile Networking, Software-defined Networking and Distribu
 When at the University of Utah, I worked with [Kobus](http://www.cs.utah.edu/~kobus). 
 I also contributed to the [PhantomNet testbed](http://www.phantomnet.org/) (previous effort of the [POWDER](https://powderwireless.net/) city-scale wireless testbed).
 
-Contact:
-======
-
-**luminbinh (obvious missing) gmail.com**
-
 Resume & CV:
 ======
 
