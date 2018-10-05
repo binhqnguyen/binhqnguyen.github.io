@@ -12,7 +12,7 @@ I successfully defended my PhD in December 2017. My PhD dissertation was ["Enhan
 I am currently at Charter Communications' Advanced Engineering in Denver CO working on network orchestration. 
 
 I am interested in **Mobile Networking, Software-defined Networking and Distributed Systems**. 
-When at the University of Utah, I worked with [Kobus](http://www.cs.utah.edu/~kobus). 
+When at the University of Utah, I worked with [Kobus](http://www.cs.utah.edu/~kobus) who was my advisor. 
 I also contributed to the [PhantomNet testbed](http://www.phantomnet.org/) (previous effort of the [POWDER](https://powderwireless.net/) city-scale wireless testbed).
 
 Contact: **luminbinh (obvious missing) gmail.com**

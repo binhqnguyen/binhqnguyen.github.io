@@ -10,6 +10,8 @@ redirect_from:
 Education
 ======
 * **Ph.D in Computer Science**, University of Utah, 2017 (GPA 3.9/4.0)
+    * Thesis:  ["Enhancing scalability and reliablility in mobile core networks"](https://www.flux.utah.edu/paper/271).
+    * Advisor: Jacobus Van der Merwe.
 * **B.S. in Computer Science**, Shanghai Jiao Tong University, 2012 (GPA 3.7/4.0)
 
 Work experience
@@ -24,7 +26,7 @@ Work experience
  
 Skills
 ======
-* **LTE/mobile network**: LTE stack (eNodeB -- RLC, PDCP, GTP-C/U, S1AP, S5/S8), Software Defined Radio (OpenAirInterface, IP.Access), EPC Core (OpenEPC).  
+* **LTE/mobile network**: LTE stack (RLC, PDCP, GTP-C/U, S1AP, S11, S5/S8), Software Defined Radio (OpenAirInterface, IP.Access), EPC Core (OpenEPC).  
 * **Data analytics**: Hadoop, Pig, ELK stack, Kafka, Avro.  
 * **Infrastructure**: Kubernetes, Docker containers, Gitlab CI/CD.
 * **Programming Languages**: Python, C, Bash, Go.
