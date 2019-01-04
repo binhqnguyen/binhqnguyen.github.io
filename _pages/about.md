@@ -37,7 +37,7 @@ Publications:
 ===========
 **ECHO: A reliable distributed cellular core network for hyper-scale public clouds**.   
 ***Binh Nguyen**, Tian Zhang, Bozidar Radunovic, Ryan Stutsman, Thomas Karagiannis, Jakub Kocur, and Jacobus (Kobus) Van der Merwe. **MOBICOM' 18**. New Delhi. India*.   
-*[Paper](https://sigmobile.org/mobicom/2018/program.php) [1-min video](https://youtu.be/vf78318OG-k)*. 
+*[[Paper]](https://sigmobile.org/mobicom/2018/program.php) [[1-min video]](https://youtu.be/vf78318OG-k)*. 
 
 **SIMECA: SDN-based IoT Mobile Edge Cloud Architecture**.  
 ***Binh Nguyen**, Nakjung Choi, Marina Thottan, and Jacobus Van der Merwe. IFIP/IEEE International Symposium on Intergrated Network Management 2017 **(ISINM' 17)**, Portugal*.    
