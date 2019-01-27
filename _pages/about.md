@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I successfully defended my PhD in December 2017. My PhD dissertation was ["Enhancing scalability and reliablility in mobile core networks"](https://www.flux.utah.edu/paper/271). 
-I am currently at Charter Communications' Advanced Engineering in Denver CO working on network orchestration. 
+I successfully defended my PhD in December 2017. My PhD dissertation is **Enhancing scalability and reliablility in mobile core networks** which is available ["here"](https://www.flux.utah.edu/download?uid=271). 
 
-I am interested in **Mobile Networking, Software-defined Networking and Distributed Systems**. 
-When at the University of Utah, I worked with [Kobus](http://www.cs.utah.edu/~kobus) who was my advisor. 
-I also contributed to the [PhantomNet testbed](http://www.phantomnet.org/) (previous effort of the [POWDER](https://powderwireless.net/) city-scale wireless testbed).
+During my PhD, I applied Software-defined networking, Distributed systems, and Data analytics to solve scalability and reliability problems in the NFV-based mobile (LTE/EPC) networks. I worked with [Kobus](http://www.cs.utah.edu/~kobus) who was my advisor. 
+Besides my research, I helped Utah's Flux team standing up the [PhantomNet testbed](http://www.phantomnet.org/) (now has become the [POWDER](https://powderwireless.net/) city-scale wireless testbed in Salt Lake City).
+
+I am currently at Charter Communications' Advanced Engineering working on network automation/orchestration. 
 
 Contact: **luminbinh (obvious missing) gmail.com**
 
@@ -35,6 +35,10 @@ Work experience:
 
 Publications:
 ===========
+**ENHANCING SCALABILITY AND RELIABILITY IN MOBILE CORE NETWORKS**.   
+***Binh Nguyen**, Ph.D. Dissertation. University of Utah. 2018*.    
+*[[Ph.D. Dissertation]](https://www.flux.utah.edu/download?uid=271)*. 
+
 **ECHO: A reliable distributed cellular core network for hyper-scale public clouds**.   
 ***Binh Nguyen**, Tian Zhang, Bozidar Radunovic, Ryan Stutsman, Thomas Karagiannis, Jakub Kocur, and Jacobus (Kobus) Van der Merwe. **MOBICOM' 18**. New Delhi. India*.   
 *[[Paper]](https://sigmobile.org/mobicom/2018/program.php), [[1-min video]](https://youtu.be/vf78318OG-k)*. 
