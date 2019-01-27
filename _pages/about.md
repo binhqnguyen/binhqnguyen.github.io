@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I successfully defended my PhD in December 2017. My PhD dissertation is **Enhancing scalability and reliablility in mobile core networks** which is available ["here"](https://www.flux.utah.edu/download?uid=271). 
+I successfully defended my PhD in December 2017. My PhD dissertation is **Enhancing scalability and reliablility in mobile core networks** which is available [here](https://www.flux.utah.edu/download?uid=271). 
 
 During my PhD, I applied Software-defined networking, Distributed systems, and Data analytics to solve scalability and reliability problems in the NFV-based mobile (LTE/EPC) networks. I worked with [Kobus](http://www.cs.utah.edu/~kobus) who was my advisor. 
 Besides my research, I helped Utah's Flux team standing up the [PhantomNet testbed](http://www.phantomnet.org/) (now has become the [POWDER](https://powderwireless.net/) city-scale wireless testbed in Salt Lake City).
