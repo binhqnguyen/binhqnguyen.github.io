@@ -27,15 +27,19 @@ Work experience
 Skills
 ======
 * **LTE/mobile network**: LTE stack (RLC, PDCP, GTP-C/U, S1AP, S11, S5/S8), Software Defined Radio (OpenAirInterface, IP.Access), EPC Core (OpenEPC).  
-* **Data analytics**: Hadoop, Pig, ELK stack, Kafka, Avro.  
-* **Infrastructure**: Kubernetes, Docker containers, Gitlab CI/CD.
-* **Programming Languages**: Python, C, Bash, Go.
+* **Data analytics**: Hadoop, Pig, ELK stack, Kafka, Avro, Anomaly detections.  
+* **Infrastructure**: Kubernetes, Docker containers.
+* **Programming Languages**: Python, C, Bash.
 * **Network/automation**: SDN controllers (Ryu controller, Open Daylight), Open vSwitch, ONOS, YANG.
 * **Network protocols**: TCP, OSPF, Segment Routing, SNMP.
 * **Other tools:** NS3, Mininet, Emulab, PhantomNet, Free Range Routing.
 
 Publications:
 ===========
+**ENHANCING SCALABILITY AND RELIABILITY IN MOBILE CORE NETWORKS**.   
+***Binh Nguyen**, Ph.D. Dissertation. University of Utah. 2018*.    
+*[[Ph.D. Dissertation]](https://www.flux.utah.edu/download?uid=271)*. 
+
 **ECHO: A reliable distributed cellular core network for hyper-scale public clouds**.   
 ***Binh Nguyen**, Tian Zhang, Bozidar Radunovic, Ryan Stutsman, Thomas Karagiannis, Jakub Kocur, and Jacobus (Kobus) Van der Merwe. **MOBICOM' 18**. New Delhi. India*.   
 *[Paper](https://sigmobile.org/mobicom/2018/program.php) [1-min video](https://youtu.be/vf78318OG-k)*. 
